@@ -6,4 +6,4 @@ node-[1:3]
 
 [web:vars]
 ansible_user=root
-ansible_ssh_pass=dkckdrhd1!
+
